@@ -13,7 +13,7 @@ class MovieVH extends RecyclerView.ViewHolder {
 
     public MovieVH(View itemView) {
         super(itemView);
-
+        //comment line
         textView = (TextView) itemView.findViewById(R.id.value);
     }
 }
