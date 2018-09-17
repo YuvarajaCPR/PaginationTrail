@@ -18,6 +18,7 @@ class MovieVH extends RecyclerView.ViewHolder {
         //after push
         //second push
         //third push
+        //forth push
         textView = (TextView) itemView.findViewById(R.id.value);
     }
 }
