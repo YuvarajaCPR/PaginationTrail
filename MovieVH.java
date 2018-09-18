@@ -26,6 +26,7 @@ class MovieVH extends RecyclerView.ViewHolder {
         //edited From Kathir Branch,
         //edited From Kathir Branch,
 
+        //sfafdfvcdsafc
 
 
         textView = (TextView) itemView.findViewById(R.id.value);
