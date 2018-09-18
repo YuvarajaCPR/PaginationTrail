@@ -25,6 +25,7 @@ public class DataModel {
             System.out.println("check 1 - data @dataModel = "+data.get(itemCount+i));
             movies.add(tmp);
         }*/
+        //commit by ulaga
         return movies;
     }
 
