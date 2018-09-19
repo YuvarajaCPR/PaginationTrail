@@ -18,7 +18,7 @@ public class RecyclerAdapter extends RecyclerView.Adapter<RecyclerAdapter.Recycl
 
     public LayoutInflater inflater;
     List<String> data = new ArrayList<>();
-//Master is Checked
+    //Master is Checked at 11
     public RecyclerAdapter(List<String> data) {
         this.data = data;
     }
