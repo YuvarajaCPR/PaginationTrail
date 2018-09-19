@@ -18,6 +18,7 @@ public class RecyclerAdapter extends RecyclerView.Adapter<RecyclerAdapter.Recycl
     public LayoutInflater inflater;
     List<String> data = new ArrayList<>();
 
+    //Check
     public RecyclerAdapter(List<String> data) {
         this.data = data;
     }
